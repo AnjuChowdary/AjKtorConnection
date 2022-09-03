@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AjKtorConnection</string>
+    <string name="invoke">INVOKE</string>
 </resources>
